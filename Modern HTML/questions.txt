@@ -1,0 +1,90 @@
+List out the feature of HTML5?
+-> Some of the  main features of HTML5 are aas follows: 
+1. Semantic Element: When constructing an HTML script, the term “semantic” refers to the meaning of the text.
+ Semantics, to put it simply, is the use of HTML tags that accurately reflect the content they contain.
+  For instance, using the <div> tag doesn’t suggest the content it will carry, however using the <p> tag suggests it can be used to hold paragraph information.
+
+2. Audio and Video Support: One of the many HTML 5 features is the support for audio and video.
+ It has reduced the hassle of relying upon third-party services such as Adobe Flash player.
+To embed Audio and Video into your HTML document, you may use the following two tags, <audio> and <video> tags.  
+
+3. Canvas Elements: Canvas Elements is a top-notch feature that has made the tedious task of handling graphics easier for developers. 
+With the help of Canvas elements, you can easily draw graphics using JavaScript. It is optimum for creating simple animations and drawing photo compositions. 
+
+4. Geolocation API: The Geolocation API is an HTML feature that is used to access the geographical position of a user, however, it is not accessed unless the user approves of it.
+If you’re wondering where this feature is useful, these come in handy while creating apps like taxi apps, food order tracking apps, fitness tracking apps, and more. 
+
+5. Local Storage : It is a modern feature of HTML and several browsers that typically store data in the user’s browsers and can access them with the help of JavaScript APIs.
+ This feature is useful for creating offline applications where data is need to be stored locally. 
+
+6. Web Workers: When you are performing several demanding tasks at once, the browser gets sluggish and responds slowly. 
+Because of this, web workers were added to HTML 5 to allow scripts to operate in the background without interfering with the UI thread. 
+
+7.Web Sockets: In the previous versions of HTML, when a client sends a request to the backend server, the server then responds afterward. 
+However, in HTML 5 we can establish a bidirectional live communication between the server and the client (a web browser) to reduce the latency in the responses. 
+
+2.What are the HTML Entities? List out commonly used HTML entities.
+-> HTML entities are special codes that represent reserved characters, symbols, or characters with specific
+meanings in HTML. They are used to display characters that might otherwise be interpreted as HTML code or
+cause rendering issues in web browsers. HTML entities are written using an ampersand (&) followed by a
+specific code or name, and ending with a semicolon (;).
+5 Commonly Used HTML Entities:
+&lt; - Represents the less-than symbol <.
+Example: <p>This is an example &lt;em&gt;text&lt;/em&gt;.</p>
+&gt; - Represents the greater-than symbol >.
+Example: <p>For more information, visit our website &gt; <a href="#">here</a>.</p>
+&amp; - Represents the ampersand symbol &.
+Example: <p>For further details, contact us &amp; we'll assist you.</p>
+&quot; - Represents a double quotation mark "
+Example: <p>The title of the book is "The Great Gatsby".</p>
+&copy; - Represents the copyright symbol ©.
+Example: <p>&copy; 2023 ACME Corporation. All rights reserved.</p>
+
+3. Define accessibility in the context of web development? Discuss why it's essential to create accessible
+websites and how it benefits different user groups.
+->In web development, accessibility is the practice of making websites usable by as many people as possible. It's important to create accessible websites because it benefits different user groups, including: 
+1.People with disabilities
+2.People using mobile devices
+3.People with slow network connections
+4.People with temporary disabilities, like broken fingers
+5.People who are deaf or hard of hearing
+6.People trying to access content in a noisy environment
+7.People with missing, broken, or inadequate sound hardware
+Accessible websites have all elements, including text, visuals, and audio components, available for people with disabilities.
+
+Importance of Accessible Websites:
+Inclusivity: Accessible websites ensure that everyone, including people with disabilities, can access and use
+online information and services.
+0egal Compliance: Many countries have laws requiring websites to be accessible, avoiding legal issues and
+promoting equal access.
+User Experience: Accessible design often leads to improved user experiences for everyone, including clear
+navigation and content structure.
+Business Growth: Accessible websites reach a wider audience, increasing engagement, loyalty, and potential
+customer base.
+Benefits for User Groups:
+visual Impairments: Accessibility provides screen reader support and text alternatives, aiding blind and
+visually impaired users.
+Hearing Impairments: Captions and transcripts benefit those with hearing impairments by making audio
+content understandable.
+Motor Disabilities: Keyboard navigation and easy-to-click elements assist users with motor limitations.
+Cognitive Disabilities: Accessible design simplifies content and layout, aiding individuals with cognitive
+challenges.
+Elderly Users: Accessible websites accommodate age-related limitations, ensuring usability for elderly users.
+Mobile Users: Accessible design improves mobile experiences through simplified and responsive layouts.
+
+4. List any 3 ways which help us in improving the accessibility of HTML.
+->1.Use a CMS that supports accessibility
+When building a website, choose a content management system (CMS) that supports web accessibility. Be sure that page layouts, themes, widgets, plugins, and other aspects are compatible with web accessibility standards such as WCAG 2.0.
+
+2. Structure and organize with headers
+Headers are a great resource that, when used correctly, structure and organize content on a webpage. This allows all users to easily navigate your web pages, and even improve your SEO score making it easier for you to generate more traffic to your site.
+
+3. Assign alt tags for images
+Images on a webpage provide great value to users. Nonetheless, they can create barriers for users with limited or impaired vision. Therefore, assigning alt tags to images will provide a description of the images allowing users to understand the image through the use of a screen reader. Alt tags also contribute to a higher SEO score on Google.
+
+4. Use descriptive title for links
+Using descriptive titles for links will make it easier for those who rely on screen readers to navigate your website to understand the purpose of the link and where they will be redirected.
+
+5. Use colors carefully
+Colors can help your users easily distinguish different sets of information. However, color blindness and other disabilities can make it difficult for users to find information, call-to-action buttons, or other aspects when developers fail to maintain a proper contrast of colors.
+
